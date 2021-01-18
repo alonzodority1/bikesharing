@@ -6,7 +6,7 @@
 ### Purpose
 Bikesharing is a modern phenomenon that bares tremendous opportuntiy in upcoming urban centers of varying sizes.  Our team has provided anyalysis of the New York CIty bikesharing enterprise, CITIBIKE, to highlight the suitablity of a simular investment in Des Moines, Iowa.
 
-## New York City CityBike transferable indicators
+## New York City CitiBike Transferable Indicators
 In the presentation attached to the below link you will find key indicators and demograpics that can be followed IN Des Moines, Iowa to highlight thepath toan successful venture. 
 
 [link to dashboard](https://public.tableau.com/profile/alonzo.dority#!/vizhome/BikeShare_16109050370940/BikeShare?publish=yes)
