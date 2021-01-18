@@ -1,32 +1,21 @@
-# bikesharing
-Tableau
+# Des Moines Bikesharing Investment Opportunity
+
 
 ## Overview of Analysis
 
 ### Purpose
+Bikesharing is a modern phenomenon that bares tremendous opportuntiy in upcoming urban centers of varying szies.  Our team has provided anyalysis of the New York CIty bikesharing enterprise CitiBike tohighlight the suitablity of a simular investment in Des Moines, Iowa.
 
-
-## Results of Excluding the Thomas High School 9th graders math and reading results
+## New York City CityBike transferable indicators
+In the presentation attached to the below link you will find key indicators and demograpics that can be followed IN Des Moines, Iowa to highlight thepath toan successful venture. 
 
 [link to dashboard](https://public.tableau.com/profile/alonzo.dority#!/vizhome/BikeShare_16109050370940/BikeShare?publish=yes)
 
-
-### How is the district summary affected?
-Very little affect (only a few 100ths of a percent) on the district average however passing math% went from 74.98 to 74.76, passing reading % from 85.81 to 85.66 and overall passing % from 65.17 to 64.86   
-
-### How is the school summary affected?
-#### Obviously the per school summary impact was limited to the row pertaining to Thomas High School: Average Math and Reading scores went from 83.42 and 83.85 to 83.35 and 83.9 respecitvely while math, reading and overall passing % went from 93.27 / 97.31 / 90.95 to 93.19 / 97.02 / 90.63 respectively.
-
-#### This slight drop in overall passing percentage did not alter Thomas High School's ranking as the 2nd highest in the district
-
-### How does replacing the ninth-grade scores affect the following:
-#### Math and reading scores by grade: Aggregate average score by grade was not requested as part of the analysis thus omitting THS' 9th grade scores have little effect on report.
-#### Scores by school spending: The $630 -644 Spending bucket saw slight changes (a few 100ths of a percent) across the indicators as result of the recalcutaion, largest varation being a .08 decrease in overall passing  
-#### Scores by school size: Similarly the Medium Size catagory saw a few 100ths of a percent change in output, the largest variation being a .07% decrease in overall passing 
-#### Scores by school type: Following the pattern Charter School saw only a slight adjustment, the largest being a .03% in overall passing.
-
 ## Summary
 
-While omitting THS 9th grader results in both math and reading did alter the final out puts of average Math and Reading scores as well Math, Reading and Overall Passing % the omission had very low impact on the school's ranking and even less impact on disctrit results based on spending, size or type. 
+### Conclusions
+As you can clearly see any urban area that has a combination of office and appartment buildings will generate significant bike usages.  Clearly marketing and branding should be biased to male ridership as will represent the vast majority of both subscritption and usage revenue.   
 
+### Special Considerations
+Given that both the population and population density of Des Moines is considerably less the cost be bike and effect cost per ride (variable cost including maintence and repair) will be significantly higher and expectations of percentage return should take that into account.  
 
