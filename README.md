@@ -14,7 +14,7 @@ In the presentation attached to the below link you will find key indicators and 
 ## Summary
 
 ### Conclusions
-As you can clearly see any urban area that has a combination of office and appartment buildings will generate significant bike usages.  Clearly marketing and branding should be biased to male ridership as will represent the vast majority of both subscritption and usage revenue.   
+As you can clearly see any urban area that has a combination of office and appartment buildings will generate significant bike usages.  Clearly marketing and branding should be biased to male ridership as they will represent the vast majority of both subscritption and usage revenue.   
 
 ### Special Considerations
 Given that both the population and population density of Des Moines is considerably less the cost be bike and effect cost per ride (variable cost including maintence and repair) will be significantly higher and expectations of percentage return should take that into account.  
